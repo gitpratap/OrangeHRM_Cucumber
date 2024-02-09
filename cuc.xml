@@ -1,0 +1,15 @@
+<suite name="Cucumber Suite">
+
+	<test name="Cucumber Test">
+
+		<classes>
+
+			<class name="Test_Runners.AdminLogin"></class>
+
+		</classes>
+
+
+	</test>
+
+
+</suite>
